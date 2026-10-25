@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "117551232883",
+    "project_id": "tindatrack-crbtabd",
+    "storage_bucket": "tindatrack-crbtabd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117551232883:android:2299a47d2b752b1d92f706",
+        "android_client_info": {
+          "package_name": "com.example.tindatrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARtvHkPCQ5psrCYIwQpP17o1DrGetI3-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
